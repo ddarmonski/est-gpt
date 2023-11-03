@@ -275,7 +275,7 @@ const Chat = () => {
                                     className={styles.chatIcon}
                                     aria-hidden="true"
                                 />
-                                <h1 className={styles.chatEmptyStateTitle}>Welcome to Tamro Baltics GPT</h1>
+                                <h1 className={styles.chatEmptyStateTitle}>Welcome to Tamro Estonia GPT</h1>
                                 <h2 className={styles.chatEmptyStateSubtitle}>This chatbot works with data</h2>
                                 
                             </Stack>
